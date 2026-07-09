@@ -20,7 +20,7 @@ Keywords **_SSD FTL_**
         + 정 희찬
 
 *  **Paper**
-    - Nitim Agrawal [Design Tradeoffs for SSD Performance]
+    - Nitin Agrawal [Design Tradeoffs for SSD Performance]
     - Mendel Rosenblum [The Design and Implementation of a Log-Structured File System]
     - Aayush Gupta [DFTL: A Flash Translation Layer Employing Demand-based Selective Caching of Page-level Address Mappings]
 
