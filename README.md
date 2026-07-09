@@ -11,7 +11,7 @@ Keywords **_SSD FTL_**
         + 최 건희
         + 이 제연
         + 박 규원
-    - students
+    - Students
         + 김 민수
         + 김 정민
         + 성 진욱
