@@ -27,3 +27,53 @@ Keywords **_SSD FTL_**
 * **Study Goal**
 
 * **Study Plan**
+## Study Plan
+
+<table>
+  <thead>
+    <tr>
+      <th>Week</th>
+      <th>Date</th>
+      <th>Paper</th>
+      <th>Presenter</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">1주차</td>
+      <td align="center">2026.07.14</td>
+      <td></td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">2주차</td>
+      <td align="center">2026.07.21</td>
+      <td></td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">3주차</td>
+      <td align="center">2026.07.28</td>
+      <td></td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">4주차</td>
+      <td align="center">2026.08.04</td>
+      <td></td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">5주차</td>
+      <td align="center">2026.08.11</td>
+      <td></td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">6주차</td>
+      <td align="center">2026.08.18</td>
+      <td></td>
+      <td align="center"></td>
+    </tr>
+  </tbody>
+</table>
