@@ -24,6 +24,6 @@ Keywords **_SSD FTL_**
     - LFS(Log-Structured File System) [The Design and Implementation of a Log-Structured File System(Mendel Rosenblum,ACM TOCS)]
     - DFTL [DFTL:A Flash Translation Layer Employing Demand-based Selective Caching of Page-level Address Mappings(Aaysh Gupta,ASPLOS)]
 
-* **study Goal**
+* **Study Goal**
 
 * **Study Plan**
