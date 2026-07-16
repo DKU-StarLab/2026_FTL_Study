@@ -58,17 +58,6 @@ This repository contains study materials, papers, and presentation slides for th
 
 ---
 
-## 📌 Weekly Contents
-
-Each week's directory contains
-
-- Lecture slides
-- Presentation materials
-- Notes
-- Additional references
-
----
-
 ## 📜 References
 
 - Design Tradeoffs for SSD Performance
