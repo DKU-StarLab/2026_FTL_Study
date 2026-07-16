@@ -60,9 +60,10 @@ This repository contains study materials, papers, and presentation slides for th
 
 ## 📜 References
 
-- Design Tradeoffs for SSD Performance
-- The Design and Implementation of a Log-Structured File System
-- DFTL: A Flash Translation Layer Employing Demand-based Selective Caching of Page-level Address Mappings
+- 📄 [Design Tradeoffs for SSD Performance](Papers/Design%20tradeoffs%20for%20SSD%20performance.pdf)
+- 📄 [The Design and Implementation of a Log-Structured File System](Papers/The%20Design%20and%20Implementation%20of%20a%20Log-Structured%20File%20System.pdf)
+- 📄 [DFTL: A Flash Translation Layer Employing Demand-based Selective Caching of Page-level Address Mappings](Papers/DFTL.pdf)
+- 📄 [Flash 101 and Flash Management](Papers/Flash%20101%20and%20Flash%20Management.pdf)
 
 ---
 
