@@ -27,15 +27,15 @@ This repository contains study materials, papers, and presentation slides for th
 
 ---
 
-## 👥 Members
+## Members
 
-| 👨‍🏫 Members | 👨‍💻 Teams |
+| Members | Teams |
 |:-------------|:-----------|
 | **Professor**<br>• 최종무<br><br>**Mentors**<br>• 최건희<br>• 이제연<br>• 박규원<br><br>**Students**<br>• 김민수<br>• 김정민<br>• 성진욱<br>• 정다원<br>• 정인<br>• 정희찬 | **🟦 Team 1**<br>• 정다원<br>• 김정민<br><br>**🟩 Team 2**<br>• 김민수<br>• 정인<br><br>**🟨 Team 3**<br>• 정희찬<br>• 성진욱 |
 
 ---
 
-## 📄 Papers
+## Papers
 
 | Paper | Authors |
 |-------|---------|
@@ -45,7 +45,7 @@ This repository contains study materials, papers, and presentation slides for th
 
 ---
 
-## 📅 Study Plan
+## Study Plan
 
 | Week | Date | Material | Presenter | Status |
 |:---:|:---:|:---|:---:|:---:|
@@ -58,7 +58,7 @@ This repository contains study materials, papers, and presentation slides for th
 
 ---
 
-## 📜 References
+## References
 
 - 📄 [Design Tradeoffs for SSD Performance](Papers/Design%20tradeoffs%20for%20SSD%20performance.pdf)
 - 📄 [The Design and Implementation of a Log-Structured File System](Papers/The%20Design%20and%20Implementation%20of%20a%20Log-Structured%20File%20System.pdf)
