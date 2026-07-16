@@ -1,11 +1,11 @@
-# 📚 FTL Study
+# FTL Study
 
 > **2026 DKU System Software Lab**  
 > Flash Translation Layer (FTL) Study Repository
 
 ---
 
-## 📖 Overview
+## Overview
 
 This repository contains study materials, papers, and presentation slides for the
 **2026 DKU System Software Lab FTL Study**.
@@ -19,7 +19,7 @@ This repository contains study materials, papers, and presentation slides for th
 
 ---
 
-## 🎯 Study Goal
+## Study Goal
 
 - Explore Flash Translation Layer (FTL) design
 - Understand flash storage system architecture
