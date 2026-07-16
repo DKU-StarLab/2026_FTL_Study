@@ -58,23 +58,6 @@ This repository contains study materials, papers, and presentation slides for th
 
 ---
 
-## 📂 Repository Structure
-
-```text
-.
-├── README.md
-├── 1주차 (07.16)
-│   ├── README.md
-│   └── 20260716_SSlab_여름방학_FTL_Study.pdf
-├── 2주차 (07.21)
-├── 3주차 (07.28)
-├── 4주차 (08.04)
-├── 5주차 (08.11)
-└── 6주차 (08.18)
-```
-
----
-
 ## 📌 Weekly Contents
 
 Each week's directory contains
