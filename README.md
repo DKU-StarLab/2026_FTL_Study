@@ -19,6 +19,14 @@ This repository contains study materials, papers, and presentation slides for th
 
 ---
 
+## 🎯 Study Goal
+
+- Explore Flash Translation Layer (FTL) design
+- Understand flash storage system architecture
+- Read and present classic storage papers
+
+---
+
 ## 👥 Members
 
 | 👨‍🏫 Members | 👨‍💻 Teams |
@@ -34,14 +42,6 @@ This repository contains study materials, papers, and presentation slides for th
 | *Design Tradeoffs for SSD Performance* | Nitin Agrawal |
 | *The Design and Implementation of a Log-Structured File System* | Mendel Rosenblum |
 | *DFTL: A Flash Translation Layer Employing Demand-based Selective Caching of Page-level Address Mappings* | Aayush Gupta |
-
----
-
-## 🎯 Study Goal
-
-- Explore Flash Translation Layer (FTL) design
-- Understand flash storage system architecture
-- Read and present classic storage papers
 
 ---
 
