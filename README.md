@@ -42,7 +42,7 @@ Keywords **_SSD FTL_**
     <tr>
       <td align="center">1주차</td>
       <td align="center">2026.07.14</td>
-      <td></td>
+      <td>최건희</td>
       <td align="center"></td>
     </tr>
     <tr>
