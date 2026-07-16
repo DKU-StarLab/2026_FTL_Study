@@ -21,25 +21,9 @@ This repository contains study materials, papers, and presentation slides for th
 
 ## 👥 Members
 
-### Professor
-
-- 최종무
-
-### Mentors
-
-- 최건희
-- 이제연
-- 박규원
-
-### Students
-
-- 김민수
-- 김정민
-- 성진욱
-- 정다원
-- 정인
-- 정희찬
-
+| Members | Team |
+|---------|------|
+| **Professor**<br>• 최종무<br><br>**Mentors**<br>• 최건희<br>• 이제연<br>• 박규원<br><br>**Students**<br>• 김민수<br>• 김정민<br>• 성진욱<br>• 정다원<br>• 정인<br>• 정희찬 | **Team 1**<br>• 정다원<br>• 김정민<br><br>**Team 2**<br>• 김민수<br>• 정인<br><br>**Team 3**<br>• 정희찬<br>• 성진욱 |
 ---
 
 ## 📄 Papers
