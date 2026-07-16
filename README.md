@@ -39,10 +39,9 @@ This repository contains study materials, papers, and presentation slides for th
 
 ## 🎯 Study Goal
 
-- Understand SSD architecture
-- Learn Flash Memory internals
-- Analyze Flash Translation Layer (FTL)
-- Read and present classic storage system papers
+- Explore Flash Translation Layer (FTL) design
+- Understand flash storage system architecture
+- Read and present classic storage papers
 
 ---
 
