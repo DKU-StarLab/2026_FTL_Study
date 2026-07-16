@@ -1,81 +1,116 @@
-# FTL Study
+# 📚 FTL Study
 
-### 2026 DKU System Software Lab FTL Study
+> **2026 DKU System Software Lab**  
+> Flash Translation Layer (FTL) Study Repository
 
-Keywords **_SSD FTL_** 
+---
 
-* **Members**
-    - Professor 
-        + 최 종무
-    - Mentors
-        + 최 건희
-        + 이 제연
-        + 박 규원
-    - Students
-        + 김 민수
-        + 김 정민
-        + 성 진욱
-        + 정 다원
-        + 정 인
-        + 정 희찬
+## 📖 Overview
 
-*  **Paper**
-    - Nitin Agrawal [Design Tradeoffs for SSD Performance]
-    - Mendel Rosenblum [The Design and Implementation of a Log-Structured File System]
-    - Aayush Gupta [DFTL: A Flash Translation Layer Employing Demand-based Selective Caching of Page-level Address Mappings]
+This repository contains study materials, papers, and presentation slides for the
+**2026 DKU System Software Lab FTL Study**.
 
-* **Study Goal**
+### Keywords
 
-* **Study Plan**
-## Study Plan
+- SSD
+- Flash Memory
+- Flash Translation Layer (FTL)
+- Storage Systems
 
-<table>
-  <thead>
-    <tr>
-      <th>Week</th>
-      <th>Date</th>
-      <th>Paper</th>
-      <th>Presenter</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">1주차</td>
-      <td align="center">2026.07.16</td>
-<td>
-  <a href="20260716_SSlab_여름방학_FTL_Study.pdf">1주차 강의자료</a>
-</td>
-      <td align="center">최 건 희</td>
-    </tr>
-    <tr>
-      <td align="center">2주차</td>
-      <td align="center">2026.07.21</td>
-      <td></td>
-      <td align="center"></td>
-    </tr>
-    <tr>
-      <td align="center">3주차</td>
-      <td align="center">2026.07.28</td>
-      <td></td>
-      <td align="center"></td>
-    </tr>
-    <tr>
-      <td align="center">4주차</td>
-      <td align="center">2026.08.04</td>
-      <td></td>
-      <td align="center"></td>
-    </tr>
-    <tr>
-      <td align="center">5주차</td>
-      <td align="center">2026.08.11</td>
-      <td></td>
-      <td align="center"></td>
-    </tr>
-    <tr>
-      <td align="center">6주차</td>
-      <td align="center">2026.08.18</td>
-      <td></td>
-      <td align="center"></td>
-    </tr>
-  </tbody>
-</table>
+---
+
+## 👥 Members
+
+### Professor
+
+- 최종무
+
+### Mentors
+
+- 최건희
+- 이제연
+- 박규원
+
+### Students
+
+- 김민수
+- 김정민
+- 성진욱
+- 정다원
+- 정인
+- 정희찬
+
+---
+
+## 📄 Papers
+
+| Paper | Authors |
+|-------|---------|
+| *Design Tradeoffs for SSD Performance* | Nitin Agrawal |
+| *The Design and Implementation of a Log-Structured File System* | Mendel Rosenblum |
+| *DFTL: A Flash Translation Layer Employing Demand-based Selective Caching of Page-level Address Mappings* | Aayush Gupta |
+
+---
+
+## 🎯 Study Goal
+
+- Understand SSD architecture
+- Learn Flash Memory internals
+- Analyze Flash Translation Layer (FTL)
+- Read and present classic storage system papers
+
+---
+
+## 📅 Study Plan
+
+| Week | Date | Material | Presenter | Status |
+|:---:|:---:|:---|:---:|:---:|
+| 1 | 2026.07.16 | 📄 [Lecture Slides](1주차%20(07.16)/20260716_SSlab_여름방학_FTL_Study.pdf) | 최건희 | ✅ |
+| 2 | 2026.07.21 | - | - | ⏳ |
+| 3 | 2026.07.28 | - | - | ⏳ |
+| 4 | 2026.08.04 | - | - | ⏳ |
+| 5 | 2026.08.11 | - | - | ⏳ |
+| 6 | 2026.08.18 | - | - | ⏳ |
+
+---
+
+## 📂 Repository Structure
+
+```text
+.
+├── README.md
+├── 1주차 (07.16)
+│   ├── README.md
+│   └── 20260716_SSlab_여름방학_FTL_Study.pdf
+├── 2주차 (07.21)
+├── 3주차 (07.28)
+├── 4주차 (08.04)
+├── 5주차 (08.11)
+└── 6주차 (08.18)
+```
+
+---
+
+## 📌 Weekly Contents
+
+Each week's directory contains
+
+- Lecture slides
+- Presentation materials
+- Notes
+- Additional references
+
+---
+
+## 📜 References
+
+- Design Tradeoffs for SSD Performance
+- The Design and Implementation of a Log-Structured File System
+- DFTL: A Flash Translation Layer Employing Demand-based Selective Caching of Page-level Address Mappings
+
+---
+
+<p align="center">
+  <b>DKU System Software Lab</b><br>
+  Flash Translation Layer (FTL) Study • 2026
+</p>
