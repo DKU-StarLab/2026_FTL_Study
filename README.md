@@ -41,7 +41,7 @@ Keywords **_SSD FTL_**
   <tbody>
     <tr>
       <td align="center">1주차</td>
-      <td align="center">2026.07.14</td>
+      <td align="center">2026.07.16</td>
 <td>
   <a href="20260716_SSlab_여름방학_FTL_Study.pdf">1주차 강의자료</a>
 </td>
