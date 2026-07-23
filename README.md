@@ -48,9 +48,7 @@ This repository contains study materials, papers, and presentation slides for th
 
 ---
 
-## References
-
-## 📚 Research Papers
+##  Research Papers
 
 - 📄 [Design Tradeoffs for SSD Performance](Papers/Design%20tradeoffs%20for%20SSD%20performance.pdf)
 - 📄 [The Design and Implementation of a Log-Structured File System](Papers/The%20Design%20and%20Implementation%20of%20a%20Log-Structured%20File%20System.pdf)
@@ -66,14 +64,14 @@ This repository contains study materials, papers, and presentation slides for th
 - 📄 [SNIA SDC22: File System Acceleration Using Computational Storage for Efficient Data Storage](Papers/SNIA-SDC22-File-System-Acceleration-Using-Computational-Storage-For-Efficient-Data-Storage.pdf)
 - 📄 [WiscKey: Separating Keys from Values in SSD-Conscious Storage](Papers/WiscKey_Seperating%20Keys%20from%20Values%20in%20SSD-Conscious%20Storage.pdf)
 
-## 📖 Background & Tutorials
+##  Background & Tutorials
 
 - 📄 [Flash 101 and Flash Management](Papers/Flash%20101%20and%20Flash%20Management.pdf)
 - 📄 [NVMe Overview](Papers/NVMe_Overview.pdf)
 - 📄 [The Case for Learned Index Structures](Papers/The%20Case%20for%20Learned%20Index%20Structures.pdf)
 - 📄 [The Case of FEMU: Cheap, Accurate, Scalable and Extensible Flash Emulator](Papers/The%20Case%20of%20FEMU_Cheap,%20Accurate,%20Scalable%20and%20Extensible%20Flash%20Emulator.pdf)
 
-## 🌐 Technical References
+##  Technical References
 
 - 🌐 [개발자를 위한 SSD (Coding for SSD) - Part 2 : SSD의 내부 구조](https://tech.kakao.com/posts/327)
 - 🌐 [최리노 교수 칼럼 4편 - 반도체의 이해: 저장장치(SSD)와 NAND Flash](https://news.skhynix.co.kr/rino-choi-column-4)
