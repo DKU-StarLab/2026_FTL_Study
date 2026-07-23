@@ -66,15 +66,15 @@ This repository contains study materials, papers, and presentation slides for th
 - 📄 [The Design and Implementation of a Log-Structured File System](Papers/The%20Design%20and%20Implementation%20of%20a%20Log-Structured%20File%20System.pdf)
 - 📄 [DFTL: A Flash Translation Layer Employing Demand-based Selective Caching of Page-level Address Mappings](Papers/DFTL.pdf)
 - 📄 [Can Learned Indexes be Built Efficiently? A Deep Dive into Sampling Trade-offs](Papers/Can%20Learned%20Indexes%20be%20Built%20EfficientlyA%20Deep%20Dive%20into%20Sampling%20Trade-offs.pdf)
-- 📄 [DIDACache: An Integration of Device and Application for Flash-based Key-Value Caching](Papers/DIDACache_An%20Integration%20of%20Device%20and%20Applicationfor%20Flash-based%20Key-value%20Caching.pdf)
+- 📄 [DIDACache: An Integration of Device and Application for Flash-based Key-value Caching](Papers/DIDACache_An%20Integration%20of%20Device%20and%20Application%20for%20Flash-based%20Key-value%20Caching.pdf)
 - 📄 [Device Level Optimization Techniques for Solid-State Drives: A Survey](Papers/Device%20Level%20Optimization%20Techniques%20for%20Solid-State%20Drives_A%20Survey.pdf)
 - 📄 [F2FS: A New File System for Flash Storage](Papers/F2FS_A%20New%20File%20System%20for%20Flash%20Storage.pdf)
-- 📄 [FlashKV: Accelerating KV Performance with Open-Channel SSDs](Papers/FlashKV_Accelerating%20KV%20Performance%20withOpen-Channel%20SSDs.pdf)
-- 📄 [KVRangeDB: Range Queries for a Hash-based Key-Value Device](Papers/KVRangeDB_Range%20Queries%20for%20a%20Hash-based%20Key–ValueDevice.pdf)
-- 📄 [LeaFTL: A Learning-based Flash Translation Layer](Papers/LeafTL_A%20Learning-based%20Flash%20Translation%20Layer.pdf)
-- 📄 [LearnedFTL: A Learning-based Page-level FTL](Papers/LearnedFTL_A%20Learning-based%20Page-level%20FTL%20for.pdf)
+- 📄 [FlashKV: Accelerating KV Performance with Open-Channel SSDs](Papers/FlashKV_Accelerating%20KV%20Performance%20with%20Open-Channel%20SSDs.pdf)
+- 📄 [KVRangeDB: Range Queries for a Hash-based Key–Value Device](Papers/KVRangeDB_Range%20Queries%20for%20a%20Hash-based%20Key%E2%80%93Value%20Device.pdf)
+- 📄 [LeafTL: A Learning-based Flash Translation Layer](Papers/LeafTL_A%20Learning-based%20Flash%20Translation%20Layer.pdf)
+- 📄 [LearnedFTL: A Learning-based Page-level FTL for Reducing Double Reads in Flash-based SSDs](Papers/LearnedFTL_A%20Learning-based%20Page-level%20FTL%20for%20Reducing%20Double%20Reads%20in%20Flash-based%20SSDs.pdf)
 - 📄 [SNIA SDC22: File System Acceleration Using Computational Storage for Efficient Data Storage](Papers/SNIA-SDC22-File-System-Acceleration-Using-Computational-Storage-For-Efficient-Data-Storage.pdf)
-- 📄 [WiscKey: Seperating Keys from Values in SSD-Conscious Storage](Papers/WiscKey_Seperating%20Keys%20from%20Values%20in%20SSD-Conscious%20Storage.pdf)
+- 📄 [WiscKey: Separating Keys from Values in SSD-Conscious Storage](Papers/WiscKey_Seperating%20Keys%20from%20Values%20in%20SSD-Conscious%20Storage.pdf)
 
 ## 📖 Background & Tutorials
 
