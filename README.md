@@ -64,7 +64,10 @@ This repository contains study materials, papers, and presentation slides for th
 - 📄 [The Design and Implementation of a Log-Structured File System](Papers/The%20Design%20and%20Implementation%20of%20a%20Log-Structured%20File%20System.pdf)
 - 📄 [DFTL: A Flash Translation Layer Employing Demand-based Selective Caching of Page-level Address Mappings](Papers/DFTL.pdf)
 - 📄 [Flash 101 and Flash Management](Papers/Flash%20101%20and%20Flash%20Management.pdf)
+- 
 - 🌐 [개발자를 위한 SSD (Coding for SSD) - Part 2 : SSD의 내부 구조](https://tech.kakao.com/posts/327)
+- 🌐 [최리노 교수 칼럼 4편 - 반도체의 이해: 저장장치(SSD)와 NAND Flash](https://news.skhynix.co.kr/rino-choi-column-4)
+- 🌐 [SSD를 빠르게 만드는 방법?…SLC 캐시와 DRAM, HMB의 역할](https://www.apple-economy.com/news/articleView.html?idxno=76457)
 ---
 
 <p align="center">
