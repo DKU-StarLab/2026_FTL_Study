@@ -71,10 +71,10 @@ This repository contains study materials, papers, and presentation slides for th
 - 📄 [F2FS: A New File System for Flash Storage](Papers/F2FS_A%20New%20File%20System%20for%20Flash%20Storage.pdf)
 - 📄 [FlashKV: Accelerating KV Performance with Open-Channel SSDs](Papers/FlashKV_Accelerating%20KV%20Performance%20withOpen-Channel%20SSDs.pdf)
 - 📄 [KVRangeDB: Range Queries for a Hash-based Key-Value Device](Papers/KVRangeDB_Range%20Queries%20for%20a%20Hash-based%20Key–ValueDevice.pdf)
-- 📄 [LeafTL: A Learning-based Flash Translation Layer](Papers/LeafTL_A%20Learning-based%20Flash%20Translation%20Layer.pdf)
+- 📄 [LeaFTL: A Learning-based Flash Translation Layer](Papers/LeafTL_A%20Learning-based%20Flash%20Translation%20Layer.pdf)
 - 📄 [LearnedFTL: A Learning-based Page-level FTL](Papers/LearnedFTL_A%20Learning-based%20Page-level%20FTL%20for.pdf)
 - 📄 [SNIA SDC22: File System Acceleration Using Computational Storage for Efficient Data Storage](Papers/SNIA-SDC22-File-System-Acceleration-Using-Computational-Storage-For-Efficient-Data-Storage.pdf)
-- 📄 [WiscKey: Separating Keys from Values in SSD-Conscious Storage](Papers/WiscKey_Seperating%20Keys%20from%20Values%20in%20SSD-Conscious%20Storage.pdf)
+- 📄 [WiscKey: Seperating Keys from Values in SSD-Conscious Storage](Papers/WiscKey_Seperating%20Keys%20from%20Values%20in%20SSD-Conscious%20Storage.pdf)
 
 ## 📖 Background & Tutorials
 
