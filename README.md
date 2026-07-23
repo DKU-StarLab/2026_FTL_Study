@@ -49,8 +49,8 @@ This repository contains study materials, papers, and presentation slides for th
 
 | Week | Date | Material | Presenter | Status |
 |:---:|:---:|:---|:---:|:---:|
-| 1 | 2026.07.16 | 📄 [Orientation](1주차%20(07.16)/20260716_SSlab_여름방학_FTL_Study.pdf) | 최건희 | ✅ |
-| 2 | 2026.07.21 | - | - | ⏳ |
+| 1 | 2026.07.16 | 📄 [Week1](1주차%20(07.16)/20260716_SSlab_여름방학_FTL_Study.pdf) | 최건희 | ✅ |
+| 2 | 2026.07.21 | - | 최건희 | ✅ |
 | 3 | 2026.07.28 | - | - | ⏳ |
 | 4 | 2026.08.04 | - | - | ⏳ |
 | 5 | 2026.08.11 | - | - | ⏳ |
