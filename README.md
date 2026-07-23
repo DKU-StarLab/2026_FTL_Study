@@ -65,23 +65,23 @@ This repository contains study materials, papers, and presentation slides for th
 - 📄 [Design Tradeoffs for SSD Performance](Papers/Design%20tradeoffs%20for%20SSD%20performance.pdf)
 - 📄 [The Design and Implementation of a Log-Structured File System](Papers/The%20Design%20and%20Implementation%20of%20a%20Log-Structured%20File%20System.pdf)
 - 📄 [DFTL: A Flash Translation Layer Employing Demand-based Selective Caching of Page-level Address Mappings](Papers/DFTL.pdf)
-- 📄 Can Learned Indexes be Built Efficiently? A Deep Dive into Sampling Trade-offs
-- 📄 DIDACache: An Integration of Device and Application for Flash-based Key-Value Caching
-- 📄 Device Level Optimization Techniques for Solid-State Drives: A Survey
-- 📄 F2FS: A New File System for Flash Storage
-- 📄 FlashKV: Accelerating KV Performance with Open-Channel SSDs
-- 📄 KVRangeDB: Range Queries for a Hash-based Key-Value Device
-- 📄 LeafTL: A Learning-based Flash Translation Layer
-- 📄 LearnedFTL: A Learning-based Page-level FTL
-- 📄 SNIA SDC22: File System Acceleration Using Computational Storage
-- 📄 WiscKey: Separating Keys from Values in SSD-Conscious Storage
+- 📄 [Can Learned Indexes be Built Efficiently? A Deep Dive into Sampling Trade-offs](Papers/Can%20Learned%20Indexes%20be%20Built%20EfficientlyA%20Deep%20Dive%20into%20Sampling%20Trade-offs.pdf)
+- 📄 [DIDACache: An Integration of Device and Application for Flash-based Key-Value Caching](Papers/DIDACache_An%20Integration%20of%20Device%20and%20Applicationfor%20Flash-based%20Key-value%20Caching.pdf)
+- 📄 [Device Level Optimization Techniques for Solid-State Drives: A Survey](Papers/Device%20Level%20Optimization%20Techniques%20for%20Solid-State%20Drives_A%20Survey.pdf)
+- 📄 [F2FS: A New File System for Flash Storage](Papers/F2FS_A%20New%20File%20System%20for%20Flash%20Storage.pdf)
+- 📄 [FlashKV: Accelerating KV Performance with Open-Channel SSDs](Papers/FlashKV_Accelerating%20KV%20Performance%20withOpen-Channel%20SSDs.pdf)
+- 📄 [KVRangeDB: Range Queries for a Hash-based Key-Value Device](Papers/KVRangeDB_Range%20Queries%20for%20a%20Hash-based%20Key–ValueDevice.pdf)
+- 📄 [LeafTL: A Learning-based Flash Translation Layer](Papers/LeafTL_A%20Learning-based%20Flash%20Translation%20Layer.pdf)
+- 📄 [LearnedFTL: A Learning-based Page-level FTL](Papers/LearnedFTL_A%20Learning-based%20Page-level%20FTL%20for.pdf)
+- 📄 [SNIA SDC22: File System Acceleration Using Computational Storage for Efficient Data Storage](Papers/SNIA-SDC22-File-System-Acceleration-Using-Computational-Storage-For-Efficient-Data-Storage.pdf)
+- 📄 [WiscKey: Separating Keys from Values in SSD-Conscious Storage](Papers/WiscKey_Seperating%20Keys%20from%20Values%20in%20SSD-Conscious%20Storage.pdf)
 
 ## 📖 Background & Tutorials
 
 - 📄 [Flash 101 and Flash Management](Papers/Flash%20101%20and%20Flash%20Management.pdf)
-- 📄 NVMe Overview
-- 📄 The Case of FEMU: Cheap, Accurate, Scalable and Extensible Flash Emulator
-- 📄 The Case for Learned Index Structures
+- 📄 [NVMe Overview](Papers/NVMe_Overview.pdf)
+- 📄 [The Case for Learned Index Structures](Papers/The%20Case%20for%20Learned%20Index%20Structures.pdf)
+- 📄 [The Case of FEMU: Cheap, Accurate, Scalable and Extensible Flash Emulator](Papers/The%20Case%20of%20FEMU_Cheap,%20Accurate,%20Scalable%20and%20Extensible%20Flash%20Emulator.pdf)
 
 ## 🌐 Technical References
 
