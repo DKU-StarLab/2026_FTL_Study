@@ -77,6 +77,10 @@ This repository contains study materials, papers, and presentation slides for th
 - 🌐 [최리노 교수 칼럼 4편 - 반도체의 이해: 저장장치(SSD)와 NAND Flash](https://news.skhynix.co.kr/rino-choi-column-4)
 - 🌐 [SSD를 빠르게 만드는 방법?…SLC 캐시와 DRAM, HMB의 역할](https://www.apple-economy.com/news/articleView.html?idxno=76457)
 
+## Open Source
+
+- 💻 [FEMU GitHub](https://github.com/MoatLab/FEMU)
+
 ---
 
 <p align="center">
