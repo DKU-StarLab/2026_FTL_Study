@@ -60,14 +60,35 @@ This repository contains study materials, papers, and presentation slides for th
 
 ## References
 
+## 📚 Research Papers
+
 - 📄 [Design Tradeoffs for SSD Performance](Papers/Design%20tradeoffs%20for%20SSD%20performance.pdf)
 - 📄 [The Design and Implementation of a Log-Structured File System](Papers/The%20Design%20and%20Implementation%20of%20a%20Log-Structured%20File%20System.pdf)
 - 📄 [DFTL: A Flash Translation Layer Employing Demand-based Selective Caching of Page-level Address Mappings](Papers/DFTL.pdf)
+- 📄 Can Learned Indexes be Built Efficiently? A Deep Dive into Sampling Trade-offs
+- 📄 DIDACache: An Integration of Device and Application for Flash-based Key-Value Caching
+- 📄 Device Level Optimization Techniques for Solid-State Drives: A Survey
+- 📄 F2FS: A New File System for Flash Storage
+- 📄 FlashKV: Accelerating KV Performance with Open-Channel SSDs
+- 📄 KVRangeDB: Range Queries for a Hash-based Key-Value Device
+- 📄 LeafTL: A Learning-based Flash Translation Layer
+- 📄 LearnedFTL: A Learning-based Page-level FTL
+- 📄 SNIA SDC22: File System Acceleration Using Computational Storage
+- 📄 WiscKey: Separating Keys from Values in SSD-Conscious Storage
+
+## 📖 Background & Tutorials
+
 - 📄 [Flash 101 and Flash Management](Papers/Flash%20101%20and%20Flash%20Management.pdf)
-- 
+- 📄 NVMe Overview
+- 📄 The Case of FEMU: Cheap, Accurate, Scalable and Extensible Flash Emulator
+- 📄 The Case for Learned Index Structures
+
+## 🌐 Technical References
+
 - 🌐 [개발자를 위한 SSD (Coding for SSD) - Part 2 : SSD의 내부 구조](https://tech.kakao.com/posts/327)
 - 🌐 [최리노 교수 칼럼 4편 - 반도체의 이해: 저장장치(SSD)와 NAND Flash](https://news.skhynix.co.kr/rino-choi-column-4)
 - 🌐 [SSD를 빠르게 만드는 방법?…SLC 캐시와 DRAM, HMB의 역할](https://www.apple-economy.com/news/articleView.html?idxno=76457)
+
 ---
 
 <p align="center">
