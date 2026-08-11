@@ -53,7 +53,7 @@ This repository contains study materials, papers, and presentation slides for th
 | 2 | 2026.07.21 | 📄 [Week2](2주차%20(07.21)/20260716_SSlab_여름방학_FTL_Study(2).pdf) | 최건희 | ✅ |
 | 3 | 2026.07.28 | 📄 [LFS](3주차%20(07.28)/김정민,%20정다원_LFS.pdf)<br>📄 [DFTL](3주차%20(07.28)/정인,%20김민수_DFTL.pdf)<br>📄 [SSD Design Tradeoffs](3주차%20(07.28)/성진욱,%20정희찬_Design%20Tradeoffs%20for%20SSD%20Performance.pdf) | 🟦 Team 1<br>🟩 Team 2<br>🟨 Team 3| ✅ |
 | 4 | 2026.08.04 | 📄 [Week4](4주차%20(08.04)/20260804_SSlab_여름방학_FTL_Study.pdf) | 최건희 | ✅ |
-| 5 | 2026.08.11 | 📄 [AMF](5주차%20(08.11)/김정민,%20정다원_AMF.pdf)<br>📄 [FragPicker](5주차%20(08.11)/정%20인,%20김민수_FragPicker.pdf)<br>📄 [FEMU(DFTL)](5주차%20(08.11)/성진욱,%20정희찬_DFTL(FEMU).pdf) | 🟦 Team 1<br>🟩 Team 2<br>🟨 Team 3 | ⏳ |
+| 5 | 2026.08.11 | 📄 [AMF](5주차%20(08.11)/김정민,%20정다원_AMF.pdf)<br>📄 [FragPicker](5주차%20(08.11)/정%20인,%20김민수_FragPicker.pdf)<br>📄 [FEMU(DFTL)](5주차%20(08.11)/성진욱,%20정희찬_DFTL(FEMU).pdf) | 🟦 Team 1<br>🟩 Team 2<br>🟨 Team 3 | ✅ |
 | 6 | 2026.08.18 | - | - | ⏳ |
 
 ---
