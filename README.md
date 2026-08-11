@@ -73,6 +73,12 @@ This repository contains study materials, papers, and presentation slides for th
 - 📄 [LearnedFTL: A Learning-based Page-level FTL for Reducing Double Reads in Flash-based SSDs](Papers/LearnedFTL_A%20Learning-based%20Page-level%20FTL%20for%20Reducing%20Double%20Reads%20in%20Flash-based%20SSDs.pdf)
 - 📄 [SNIA SDC22: File System Acceleration Using Computational Storage for Efficient Data Storage](Papers/SNIA-SDC22-File-System-Acceleration-Using-Computational-Storage-For-Efficient-Data-Storage.pdf)
 - 📄 [WiscKey: Separating Keys from Values in SSD-Conscious Storage](Papers/WiscKey_Seperating%20Keys%20from%20Values%20in%20SSD-Conscious%20Storage.pdf)
+- 📄 [AMF: Application-Managed Flash](Papers/Recommended/16fast-amf.pdf)
+- 📄 [ZNS: Avoiding the Block Interface Tax for Flash-based SSDs](Papers/Recommended/21atc-ZenFS.pdf)
+- 📄 [FragPicker: A New Defragmentation Tool for Modern Storage Devices](Papers/Recommended/21sosp-FragPicker.pdf)
+- 📄 [LeaFTL: A Learning-Based Flash Translation Layer for Solid-State Drives](Papers/Recommended/23asplos-LeaFTL.pdf)
+- 📄 [CVS: The Design and Implementation of a Capacity-Variant Storage System](Papers/Recommended/24fast-CVS.pdf)
+- 📄 [We Ain't Afraid of No File Fragmentation: Causes and Prevention of Its Performance Impact on Modern Flash SSDs](Papers/Recommended/24fast-NoFrag.pdf) 
 
 ##  Background & Tutorials
 
