@@ -54,7 +54,7 @@ This repository contains study materials, papers, and presentation slides for th
 | 3 | 2026.07.28 | 📄 [LFS](3주차%20(07.28)/김정민,%20정다원_LFS.pdf)<br>📄 [DFTL](3주차%20(07.28)/정인,%20김민수_DFTL.pdf)<br>📄 [SSD Design Tradeoffs](3주차%20(07.28)/성진욱,%20정희찬_Design%20Tradeoffs%20for%20SSD%20Performance.pdf) | 🟦 Team 1<br>🟩 Team 2<br>🟨 Team 3| ✅ |
 | 4 | 2026.08.04 | 📄 [Week4](4주차%20(08.04)/20260804_SSlab_여름방학_FTL_Study.pdf) | 최건희 | ✅ |
 | 5 | 2026.08.11 | 📄 [AMF](5주차%20(08.11)/김정민,%20정다원_AMF.pdf)<br>📄 [FragPicker](5주차%20(08.11)/정%20인,%20김민수_FragPicker.pdf)<br>📄 [FEMU(DFTL)](5주차%20(08.11)/성진욱,%20정희찬_DFTL(FEMU).pdf) | 🟦 Team 1<br>🟩 Team 2<br>🟨 Team 3 | ✅ |
-| 6 | 2026.08.18 | 📄 [FEMU(???)]<br>📄 [ZNS SSD]<br>📄 [LeaFTL] | 🟦 Team 1<br>🟩 Team 2<br>🟨 Team 3 | ⏳ |
+| 6 | 2026.08.19 | 📄 [EXT4, F2FS (FEMU)](6주차%20(08.19)/김정민,%20정다원_EXT4,F2FS(FEMU).pdf)<br>📄 [ZenFS](6주차%20(08.19)/정%20인,%20김민수_ZenFS.pdf)<br>📄 [LeaFTL](6주차%20(08.19)/성진욱,%20정희찬_LeaFTL.pdf) | 🟦 Team 1<br>🟩 Team 2<br>🟨 Team 3 | ✅ |
 | 7 | 2026.08.21 | 📄 <br>📄 <br>📄 | 🟦 Team 1<br>🟩 Team 2<br>🟨 Team 3 | ⏳ |
 | 8 | 2026.08.?? | 📄 <br>📄 <br>📄 | 🟦 Team 1<br>🟩 Team 2<br>🟨 Team 3 | ⏳ |
 
