@@ -55,8 +55,8 @@ This repository contains study materials, papers, and presentation slides for th
 | 4 | 2026.08.04 | 📄 [Week4](4주차%20(08.04)/20260804_SSlab_여름방학_FTL_Study.pdf) | 최건희 | ✅ |
 | 5 | 2026.08.11 | 📄 [AMF](5주차%20(08.11)/김정민,%20정다원_AMF.pdf)<br>📄 [FragPicker](5주차%20(08.11)/정%20인,%20김민수_FragPicker.pdf)<br>📄 [FEMU(DFTL)](5주차%20(08.11)/성진욱,%20정희찬_DFTL(FEMU).pdf) | 🟦 Team 1<br>🟩 Team 2<br>🟨 Team 3 | ✅ |
 | 6 | 2026.08.19 | 📄 [EXT4, F2FS (FEMU)](6주차%20(08.19)/김정민,%20정다원_EXT4,F2FS(FEMU).pdf)<br>📄 [ZenFS](6주차%20(08.19)/정%20인,%20김민수_ZenFS.pdf)<br>📄 [LeaFTL](6주차%20(08.19)/성진욱,%20정희찬_LeaFTL.pdf) | 🟦 Team 1<br>🟩 Team 2<br>🟨 Team 3 | ✅ |
-| 7 | 2026.08.21 | 📄 <br>📄 <br>📄 | 🟦 Team 1<br>🟩 Team 2<br>🟨 Team 3 | ⏳ |
-| 8 | 2026.08.?? | 📄 <br>📄 <br>📄 | 🟦 Team 1<br>🟩 Team 2<br>🟨 Team 3 | ⏳ |
+| 7 | 2026.08.25 | 📄 [NoFrag](7주차%20(08.25)/김정민,%20정다원_NoFrag.pdf)<br>📄 [ZNS(FEMU)](7주차%20(08.25)/김민수,%20정%20인_ZNS(FEMU).pdf)<br>📄 [CVSS](7주차%20(08.25)/성진욱,%20정희찬_CVSS.pdf) | 🟦 Team 1<br>🟩 Team 2<br>🟨 Team 3 | ⏳ |
+| 8 | 2026.09.?? | 📄 <br>📄 <br>📄 | 🟦 Team 1<br>🟩 Team 2<br>🟨 Team 3 | ⏳ |
 
 ---
 
