@@ -41,7 +41,7 @@ This repository contains study materials, papers, and presentation slides for th
 
 | Team 1 🟦 | Team 2 🟩 | Team 3 🟨 |
 |:---------:|:---------:|:---------:|
-| 정다원, 김정민 | 김민수, 정 인 | 정희찬, 성진욱 |
+| 김정민, 정다원 | 김민수, 정 인 | 성진욱, 정희찬 |
 
 ---
 
